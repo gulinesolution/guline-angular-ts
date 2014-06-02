@@ -1,0 +1,10 @@
+E:\Angularjs\TSmeber\TSmeber\bin\TSmeber.dll
+E:\Angularjs\TSmeber\TSmeber\bin\TSmeber.pdb
+E:\Angularjs\TSmeber\TSmeber\obj\Debug\TSmeber.dll
+E:\Angularjs\TSmeber\TSmeber\obj\Debug\TSmeber.pdb
+E:\Angularjs\TSmeber\TSmeber\obj\Debug\TSmeber.csprojResolveAssemblyReference.cache
+C:\Users\hand\Documents\doc\Guline\TSmeber\bin\TSmeber.dll
+C:\Users\hand\Documents\doc\Guline\TSmeber\bin\TSmeber.pdb
+C:\Users\hand\Documents\doc\Guline\TSmeber\obj\Debug\TSmeber.csprojResolveAssemblyReference.cache
+C:\Users\hand\Documents\doc\Guline\TSmeber\obj\Debug\TSmeber.dll
+C:\Users\hand\Documents\doc\Guline\TSmeber\obj\Debug\TSmeber.pdb
